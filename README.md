@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://tenor.com/brXT6.gif" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **VET Consulting App**
 
