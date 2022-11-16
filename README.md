@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React Native, Spring**
 
-- 💬 Ask me about **Laravel**
-
 - 📫 How to reach me **purnakanishka97@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
